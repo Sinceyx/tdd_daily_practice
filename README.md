@@ -1,2 +1,2 @@
-# tdd_daily_practice
+# TDD_daily_practice
 Daily practice for tdd
